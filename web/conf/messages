@@ -1,4 +1,4 @@
-##### Login #####
+##### Login ######
 Public.login.title=Login to your account
 Public.login.email=Email
 Public.login.password=Password
@@ -11,6 +11,9 @@ Public.login.forgot.link=here
 Public.login.create.description=Don't have an account yet?
 Public.login.create.link=Create an account
 Public.login.error.credentials=Invalid credentials
+Public.login.error.email.field=Email field is required
+Public.login.error.password.field=Password field is required
+
 
 
 ##### Register #####
